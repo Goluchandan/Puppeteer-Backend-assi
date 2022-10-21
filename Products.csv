@@ -1,6 +1,6 @@
 { 
- Title :  Staples Hanging File Folder, 5-Tab, Letter Size, Standard Green, 50/Box (TR266262), 
- Price : $27.99, 
+ ProductName : Staples Hanging File Folder, 5-Tab, Letter Size, Standard Green, 50/Box (TR266262) , 
+ ProductPrice : $27.99, 
  ItemNumber : Item # 901-266262, 
  ModelNumber : Model # 42150-US/266262, 
  ProductDescription : Comes in standard green and is made of 12.5-point paper stock with 144# basis weight for durabilityFive assorted-position top tabs offer ample space for labeling to keep your files organizedFile folder tabs are detachable; tear-resistant, 
@@ -8,35 +8,8 @@
 }
 
 { 
- Title :  Pendaflex SureHook Reinforced Hanging File Folders, Extra Capacity, Letter Size, Standard Green, 20/Box (PFX 6152x2) , 
- Price : $25.99, 
- ItemNumber : Item # 901-784623, 
- ModelNumber : Model # 6152X2, 
- ProductDescription : Standard green paper stock folders hold up to wear and tearPoly-reinforced top edge and bottom folds provide added durabilityAccommodates letter-size papers and files, 
- Image : //www.quill.com/is/image/Quill/sp42803967_s7?$156$ 
-}
-
-{ 
- Title :  Pendaflex Reinforced Hanging File Folders, 1/5 Tab, Letter Size, Assorted Jeweltone Colors, 25/Box (PFX 4152 1/5 ASST2) , 
- Price : $32.99, 
- ItemNumber : Item # 901-415215AD2, 
- ModelNumber : Model # 42553, 
- ProductDescription : Durable paper stock hanging folders in assorted jewel-tone colors for general or color-coded filingPoly-reinforced top edge and bottom fold provide added durabilityFive tab positions allow you to customize your files, 
- Image : //www.quill.com/is/image/Quill/sp44488583_s7?$156$ 
-}
-
-{ 
- Title : Staples Hanging File Folder, Legal Size, Standard Green, 25/Box (TR521252), 
- Price : $16.49, 
- ItemNumber : Item # 901-521252, 
- ModelNumber : Model # 422, 
- ProductDescription : Comes in standard green color and is made of 12.5-point paper stock with 144# basis weight for durabilityLegal-size folder for holding oversize documents without folding25 folders per box, 
- Image : //www.quill.com/is/image/Quill/s1166139_s7?$156$ 
-}
-
-{ 
- Title :  Quill Brand®  100% Recycled Hanging File Folders; 1/5-Cut, Letter Size, Green, 25/Box (7Q5215) , 
- Price : $15.49, 
+ ProductName : Quill Brand®  100% Recycled Hanging File Folders; 1/5-Cut, Letter Size, Green, 25/Box (7Q5215) , 
+ ProductPrice : $15.49, 
  ItemNumber : Item # 901-7Q5215, 
  ModelNumber : Model # 7Q5215, 
  ProductDescription : Standard dark green 11 pt. stock1/5-cutLetter size, 
@@ -44,8 +17,17 @@
 }
 
 { 
- Title : Quill Brand®  100% Recycled Hanging File Folders, 1/5-Cut, Legal Size, Green, 50/Box (745315), 
- Price : $38.99, 
+ ProductName : Staples Hanging File Folder, Legal Size, Standard Green, 25/Box (TR521252) , 
+ ProductPrice : $16.49, 
+ ItemNumber : Item # 901-521252, 
+ ModelNumber : Model # 422, 
+ ProductDescription : Comes in standard green color and is made of 12.5-point paper stock with 144# basis weight for durabilityLegal-size folder for holding oversize documents without folding25 folders per box, 
+ Image : //www.quill.com/is/image/Quill/s1166139_s7?$156$ 
+}
+
+{ 
+ ProductName : Quill Brand®  100% Recycled Hanging File Folders, 1/5-Cut, Legal Size, Green, 50/Box (745315) , 
+ ProductPrice : $38.99, 
  ItemNumber : Item # 901-745315, 
  ModelNumber : Model # 745315, 
  ProductDescription : Standard green 11 pt. stock1/5-cutMetal hanging rods have a tough coating that can't chip so folders glide smoothly on rails, 
@@ -53,8 +35,26 @@
 }
 
 { 
- Title : Staples Reinforced Hanging File Folders, 5-Tab, Letter Size, Blue/Green/Red/Orange/Yellow, 25/Box (TR18654) , 
- Price : $20.99, 
+ ProductName :  Pendaflex SureHook Reinforced Hanging File Folders, Extra Capacity, Letter Size, Standard Green, 20/Box (PFX 6152x2) , 
+ ProductPrice : $25.99, 
+ ItemNumber : Item # 901-784623, 
+ ModelNumber : Model # 6152X2, 
+ ProductDescription : Standard green paper stock folders hold up to wear and tearPoly-reinforced top edge and bottom folds provide added durabilityAccommodates letter-size papers and files, 
+ Image : //www.quill.com/is/image/Quill/sp42803967_s7?$156$ 
+}
+
+{ 
+ ProductName :  Pendaflex Reinforced Hanging File Folders, 1/5 Tab, Letter Size, Assorted Jeweltone Colors, 25/Box (PFX 4152 1/5 ASST2), 
+ ProductPrice : $32.99, 
+ ItemNumber : Item # 901-415215AD2, 
+ ModelNumber : Model # 42553, 
+ ProductDescription : Durable paper stock hanging folders in assorted jewel-tone colors for general or color-coded filingPoly-reinforced top edge and bottom fold provide added durabilityFive tab positions allow you to customize your files, 
+ Image : //www.quill.com/is/image/Quill/sp44488583_s7?$156$ 
+}
+
+{ 
+ ProductName :  Staples Reinforced Hanging File Folders, 5-Tab, Letter Size, Blue/Green/Red/Orange/Yellow, 25/Box (TR18654) , 
+ ProductPrice : $20.99, 
  ItemNumber : Item # 901-813110STP, 
  ModelNumber : Model # 18654-US-CC, 
  ProductDescription : Colorful hanging file folders made of tear-resistant material in blue, green, red, orange, and yellow with durable coated hooksFive top-position tabs allow you to customize your filesFile folder tabs are detachable, 
@@ -62,8 +62,8 @@
 }
 
 { 
- Title :  Pendaflex SureHook 5-Tab Hanging File Folders, Letter Size, Multicolor, 20/Box (6152 1/5 ASST), 
- Price : $27.99, 
+ ProductName :  Pendaflex SureHook 5-Tab Hanging File Folders, Letter Size, Multicolor, 20/Box (6152 1/5 ASST), 
+ ProductPrice : $27.99, 
  ItemNumber : Item # 901-615215AD, 
  ModelNumber : Model # 6152 1/5 ASST, 
  ProductDescription : 11-point stock in five colors, including blue, red, yellow, bright green and orangeBuilt-in tension springs and longer hooks for durability and securityDimensions: 13" x 9.56" x 2.81", 
@@ -71,8 +71,8 @@
 }
 
 { 
- Title : Pendaflex Recycled Hanging File Folders, Legal Size, Yellow, 25/Box (PFX 4153 1/5 YEL), 
- Price : $31.99, 
+ ProductName : Pendaflex Recycled Hanging File Folders, Legal Size, Yellow, 25/Box (PFX 4153 1/5 YEL), 
+ ProductPrice : $31.99, 
  ItemNumber : Item # 901-415315YW, 
  ModelNumber : Model # 415315YEL, 
  ProductDescription : Yellow paper stock reinforced hanging folders for general or color-coded filingPoly-reinforced top edge and bottom fold provide added durabilityFive tab positions allow you to customize your files, 
@@ -80,8 +80,8 @@
 }
 
 { 
- Title :Staples Hanging File Folder, 5-Tab, Letter Size, Red, 25/Box (TR163535), 
- Price : $20.29, 
+ ProductName : Staples Hanging File Folder, 5-Tab, Letter Size, Red, 25/Box (TR163535), 
+ ProductPrice : $20.29, 
  ItemNumber : Item # 901-163535, 
  ModelNumber : Model # TR163535, 
  ProductDescription : Comes in red color and is made of 10.5-point paper stock with 114# basis weight for durabilityFive assorted-position top tabs allow for ample space for labeling to keep your files organizedFile folder tabs are detachable and tear-resistant, 

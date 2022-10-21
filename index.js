@@ -12,22 +12,22 @@ const puppeteer = require("puppeteer");
   var i = 0;
 
   for (const producthandle of productsHandles) {
-    let title = "Null";
-    let price = "Null";
+    let ProductName = "Null";
+    let ProductPrice = "Null";
     let ItemNumber = "Null";
     let ModelNumber = "Null";
     let ProductDescription = "Null";
     let img = "Null";
 if(i<10){
     try {
-      title = await page.evaluate(
+        ProductName = await page.evaluate(
         (el) => el.querySelector("#skuName").textContent,
         producthandle
       );
     } catch (error) {}
 
     try {
-      price = await page.evaluate(
+        ProductPrice = await page.evaluate(
         (el) => el.querySelector(".priceupdate").textContent,
         producthandle
       );
@@ -63,10 +63,10 @@ if(i<10){
     
     i++
   }
-    if (title !== "Null") {
+    if (ProductName !== "Null") {
       fs.appendFile(
         "Products.csv",
-        `{ \n Title : ${title}, \n Price : ${price}, \n ItemNumber : ${ItemNumber}, \n ModelNumber : ${ModelNumber}, \n ProductDescription : ${ProductDescription}, \n Image : ${img} \n}\n\n`,
+        `{ \n ProductName : ${ProductName}, \n ProductPrice : ${ProductPrice}, \n ItemNumber : ${ItemNumber}, \n ModelNumber : ${ModelNumber}, \n ProductDescription : ${ProductDescription}, \n Image : ${img} \n}\n\n`,
         function (err) {
           if (err) throw err;
         }
@@ -75,5 +75,5 @@ if(i<10){
   }
 
   await browser.close();
-  
+
 })();
